@@ -15,15 +15,15 @@ For this assignment, I combined Docker with Python to create a program that gene
 
 1. **QR Code Image**
 
-   ![QR Code Image](images/QRCode_20250401221949.png)
+   ![QR Code Image](image/QRCode_20250401221949.png)
 
 2. **Log Image**
 
-   ![Log Image](images/Screenshotl.png)
+   ![Log Image](image/Screenshotl.png)
 
 3. **Docker Desktop Image**
 
-   ![Docker Desktop Image](images/Screenshotd.png)
+   ![Docker Desktop Image](image/Screenshotd.png)
 
 ---
 
